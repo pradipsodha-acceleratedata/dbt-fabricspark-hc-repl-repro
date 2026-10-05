@@ -1,0 +1,7 @@
+name: hc_repro
+version: '1.0'
+profile: hc_repro
+model-paths: [models]
+models:
+  hc_repro:
+    +materialized: table

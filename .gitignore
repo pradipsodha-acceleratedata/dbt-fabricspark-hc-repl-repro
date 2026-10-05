@@ -1,0 +1,8 @@
+.venv/
+target/
+logs/
+dbt_packages/
+livy-session-id.txt
+*.hc.json
+.user.yml
+run-*.log
